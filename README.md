@@ -66,12 +66,5 @@ npm test
 ## CI/CD
 This project includes a CI/CD pipeline configured with GitHub Actions. It automates the testing and deployment process.
 
-## License
-<<<<<<< HEAD
-This project is licensed under the MIT License
-=======
-This project is licensed under the MIT License
->>>>>>> f3631cc9f469e8f4350e67d6e9e68c33c7de53c0
-=======
->>>>>>> 1e2d5ab353a2fbf474fc3eb0f5339f96318ab7ed
+
 
