@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 ## Overview
 This project is a RESTful API designed for small businesses to accept payments from customers using various payment gateways such as PayPal, Paystack, or Flutterwave. The API focuses on minimal customer information, including name, email, and payment amount.
 
